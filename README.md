@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryan-at-ul
+- 👋 Hi, I’m Aryan Singh
 - 👀 I’m interested in deep learning, graph based learnig and their application to real world problem
 - 🌱 I’m currently a PhD student at University of Limerick
 - 💞️ I’m looking to collaborate on work related to graph based learning
