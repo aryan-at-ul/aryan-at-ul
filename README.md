@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on work related to graoh based learning
 - 📫 How to reach me : aryan.singh@ul.ie 
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-at-ul)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-at-ul&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
