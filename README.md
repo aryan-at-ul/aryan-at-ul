@@ -6,6 +6,9 @@
 
 [![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-at-ul&show_icons=true&theme=highcontrast&count_private=true&&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-at-ul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 aryan-at-ul/aryan-at-ul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
