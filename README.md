@@ -7,8 +7,8 @@
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aryan-at-ul.aryan-at-ul)
-[![GitHub followers](https://img.shields.io/github/followers/aryan-at-ul.svg?style=social&label=Follow)](https://github.com/aryan-at-ul?tab=followers)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aryan-at-ul.aryan-at-ul)
+[![GitHub followers](https://img.shields.io/github/followers/aryan-at-ul.svg?style=social&label=Follow)](https://github.com/aryan-at-ul?tab=followers) -->
 
 - 👋 Hi, I’m Aryan Singh
 - 👀 I’m interested in deep learning, graph based learnig and their application to real world problem
