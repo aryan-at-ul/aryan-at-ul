@@ -1,4 +1,4 @@
-<a href="https://twitter.com/aryan_solo">
+<a href="https://twitter.com/yossarianz257">
   <img align="left" alt="aryan's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/aryan-singh-902115156/">
