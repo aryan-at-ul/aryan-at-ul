@@ -16,17 +16,6 @@ I recently completed my PhD at University of Limerick, specializing in image-as-
 - **PhD in Computer Science** - University of Limerick (2021-2025)
 - **BTech** - Delhi College of Engineering (2013-2017)
 
-**Experience:** Backend development at Netcore Solutions, data science at Hertz Ireland
-
-## Publications
-
-Selected publications in graph neural networks and medical imaging:
-
-- **Image Segmentation: Inducing graph-based learning** 
-- **Subgraph clustering & atom learning for image classification** 
-- **Dynamic Filter Application in Graph Convolutional Networks for Enhanced Spectral Feature Analysis and Class Discrimination in Medical Imaging** 
-- **Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images** 
-- **Compact & Capable: Harnessing Graph Neural Networks and Edge Convolution for Medical Image Classification** 
 
 ## Contact
 
@@ -105,29 +94,28 @@ Privacy-focused image search engine using CLIP embeddings. Works completely offl
 
 ## Contribution Activity
 
-<div align="center">
+<!-- <div align="center">
   
   [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-at-ul&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-</div>
+</div> -->
 
 ## Research Interests
 
 My current research interests include:
 
-- Novel graph representations for computer vision tasks
-- Applications of Graph Neural Networks in medical imaging
-- Efficient and scalable ML systems for real-world deployment
-- Open-source tools for advancing machine learning research
+- Applications of Graph Neural Networks in CV
+- Federated inference
+- Tiny models
 
 ## Get in Touch
 
-I'm open to discussing research collaborations, consulting opportunities, and projects related to machine learning and computer vision.
+I'm highly available and very responsive, reach out for anything. 
 
-<div align="center">
+<!-- <div align="center">
   
   ---
   
   © 2025 Aryan Singh
   
-</div>
+</div> -->
