@@ -14,7 +14,7 @@ I recently completed my PhD at University of Limerick, specializing in image-as-
 
 **Education:** 
 - **PhD in Computer Science** - University of Limerick (2021-2025)
-- **BTech** - Delhi College of Engineering (2013-2017) • JEE Mains Rank: 5731
+- **BTech** - Delhi College of Engineering (2013-2017)
 
 **Experience:** Backend development at Netcore Solutions, data science at Hertz Ireland
 
@@ -32,8 +32,9 @@ Selected publications in graph neural networks and medical imaging:
 
 <div align="center">
   
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yossarianz257)
+  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HUJ9VAMAAAAJ&hl=en)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-singh-902115156/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yossarianz257)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.singh@ul.ie)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=aryan-at-ul&color=brightgreen&style=for-the-badge)
@@ -58,13 +59,13 @@ Selected publications in graph neural networks and medical imaging:
   
 </div>
 
-## GitHub Trophies
+<!-- ## GitHub Trophies
 
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=aryan-at-ul&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
-</div>
+</div> -->
 
 ## Technical Skills
 
