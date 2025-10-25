@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=PhD+Student+%40+University+of+Limerick;Graph+Neural+Networks+Researcher;Building+ML+Systems)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=PhD+in+Computer+Science;Graph+Neural+Networks+Researcher;Building+ML+Systems)](https://git.io/typing-svg)
   
 </div>
 
@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a PhD student at University of Limerick working on image-as-graph representation learning. I enjoy building real-time ML systems and have some experience in computer vision and graph neural networks.
+I recently completed my PhD at University of Limerick, where I worked on image-as-graph representation learning. I enjoy building real-time ML systems and have expertise in computer vision and graph neural networks.
 
 ```python
 class AryanSingh:
     def __init__(self):
-        self.current_role = "PhD Student"
+        self.current_status = "PhD Graduate"
         self.university = "University of Limerick"
         self.research_focus = "Image-as-graph representation learning"
         self.interests = ["Graph Neural Networks", "Computer Vision", "Real-time ML Systems"]
@@ -27,13 +27,15 @@ class AryanSingh:
 
 ## 🎓 Background
 
-**Education:** BTech from Delhi College of Engineering (2013-2017) • JEE Mains Rank: 5731  
-**Current:** PhD at University of Limerick (2021-2025)  
+**Education:** 
+- **PhD in Computer Science** - University of Limerick (2021-2025)
+- **BTech** - Delhi College of Engineering (2013-2017) • JEE Mains Rank: 5731
+
 **Experience:** Backend development at Netcore Solutions, data science at Hertz Ireland
 
 ## 📝 Publications
 
-I've published some work on graph neural networks and medical imaging:
+I've published several works on graph neural networks and medical imaging:
 
 - **Image Segmentation: Inducing graph-based learning** 
 - **Subgraph clustering & atom learning for image classification** 
@@ -123,11 +125,11 @@ Privacy-focused image search engine using CLIP embeddings. Works completely offl
   
 </div>
 
-## 💡 What I'm working on
+## 💡 What I'm interested in
 
-- PhD research on graph representations for computer vision
+- Applications of graph representations in computer vision
 - Contributing to open-source ML projects
-- Exploring applications of GNNs in computer vision 
+- Real-world applications of GNNs
 - Building tools that make ML more accessible
 
 ## 📫 Get in touch
