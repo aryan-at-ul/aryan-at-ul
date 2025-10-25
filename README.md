@@ -1,31 +1,16 @@
-# Hi there! 👋 I'm Aryan Singh
+# Aryan Singh, PhD
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=PhD+in+Computer+Science;Graph+Neural+Networks+Researcher;Building+ML+Systems)](https://git.io/typing-svg)
-  
-</div>
+**Machine Learning Researcher | Graph Neural Networks | Computer Vision**
 
 ---
 
-## 🚀 About Me
+## About
 
-I recently completed my PhD at University of Limerick, where I worked on image-as-graph representation learning. I enjoy building real-time ML systems and have expertise in computer vision and graph neural networks.
+I recently completed my PhD at University of Limerick, specializing in image-as-graph representation learning. My research focuses on developing novel graph-based approaches for computer vision tasks, with applications in medical imaging. I have experience building production ML systems and a strong foundation in backend engineering.
 
-```python
-class AryanSingh:
-    def __init__(self):
-        self.current_status = "PhD Graduate"
-        self.university = "University of Limerick"
-        self.research_focus = "Image-as-graph representation learning"
-        self.interests = ["Graph Neural Networks", "Computer Vision", "Real-time ML Systems"]
-        self.background = "3+ years as a backend developer"
-        
-    def what_i_do(self):
-        return "Research + building things that work in the real world"
-```
+**Research Interests:** Graph Neural Networks, Computer Vision, Real-time ML Systems, Medical Image Analysis
 
-## 🎓 Background
+## Education & Experience
 
 **Education:** 
 - **PhD in Computer Science** - University of Limerick (2021-2025)
@@ -33,9 +18,9 @@ class AryanSingh:
 
 **Experience:** Backend development at Netcore Solutions, data science at Hertz Ireland
 
-## 📝 Publications
+## Publications
 
-I've published several works on graph neural networks and medical imaging:
+Selected publications in graph neural networks and medical imaging:
 
 - **Image Segmentation: Inducing graph-based learning** 
 - **Subgraph clustering & atom learning for image classification** 
@@ -43,7 +28,7 @@ I've published several works on graph neural networks and medical imaging:
 - **Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images** 
 - **Compact & Capable: Harnessing Graph Neural Networks and Edge Convolution for Medical Image Classification** 
 
-## 🌐 Connect with Me
+## Contact
 
 <div align="center">
   
@@ -58,7 +43,7 @@ I've published several works on graph neural networks and medical imaging:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -73,7 +58,7 @@ I've published several works on graph neural networks and medical imaging:
   
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -81,7 +66,7 @@ I've published several works on graph neural networks and medical imaging:
   
 </div>
 
-## 💻 Tech Stack
+## Technical Skills
 
 <div align="center">
 
@@ -106,7 +91,7 @@ I've published several works on graph neural networks and medical imaging:
 
 </div>
 
-## 🛠️ Recent Projects
+## Selected Projects
 
 ### [ImGraph](https://github.com/aryan-at-ul/imgraph)
 An open-source Python library for converting images to graph structures. Built with PyTorch and PyTorch Geometric, available on PyPI.
@@ -117,7 +102,7 @@ Research tool for analyzing web browsing patterns using vector embeddings and LL
 ### [Local Image Search](https://github.com/aryan-at-ul/local-image-search)
 Privacy-focused image search engine using CLIP embeddings. Works completely offline with text-to-image and image-to-image search.
 
-## 📈 Contribution Graph
+## Contribution Activity
 
 <div align="center">
   
@@ -125,21 +110,23 @@ Privacy-focused image search engine using CLIP embeddings. Works completely offl
   
 </div>
 
-## 💡 What I'm interested in
+## Research Interests
 
-- Applications of graph representations in computer vision
-- Contributing to open-source ML projects
-- Real-world applications of GNNs
-- Building tools that make ML more accessible
+My current research interests include:
 
-## 📫 Get in touch
+- Novel graph representations for computer vision tasks
+- Applications of Graph Neural Networks in medical imaging
+- Efficient and scalable ML systems for real-world deployment
+- Open-source tools for advancing machine learning research
 
-I'm always happy to chat about research, collaborate on projects, or discuss anything related to machine learning and computer vision!
+## Get in Touch
+
+I'm open to discussing research collaborations, consulting opportunities, and projects related to machine learning and computer vision.
 
 <div align="center">
   
   ---
   
-  ⭐️ From [aryan-at-ul](https://github.com/aryan-at-ul) | Thanks for stopping by!
+  © 2025 Aryan Singh
   
 </div>
