@@ -1,4 +1,4 @@
-# Aryan Singh, PhD
+# Aryan Singh
 
 **Machine Learning Researcher | Graph Neural Networks | Computer Vision**
 
